@@ -1,0 +1,12 @@
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/pedrofreitaslima/ephratria-frontend.git
+[submodule "financeiro"]
+	path = financeiro
+	url = https://github.com/pedrofreitaslima/ephratria-financeiro.git
+[submodule "catalogo"]
+	path = catalogo
+	url = https://github.com/pedrofreitaslima/ephratria-catalogo.git
+[submodule "autenticacao"]/
+	path = autenticacao
+	url = https://github.com/pedrofreitaslima/ephratria-autenticacso.git
