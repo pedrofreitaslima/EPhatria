@@ -1,5 +1,5 @@
-[submodule "front-end"]
-	path = front-end
+[submodule "frontend"]
+	path = frontend
 	url = https://github.com/pedrofreitaslima/ephratria-frontend.git
 [submodule "financeiro"]
 	path = financeiro
