@@ -7,6 +7,6 @@
 [submodule "catalogo"]
 	path = catalogo
 	url = https://github.com/pedrofreitaslima/ephratria-catalogo.git
-[submodule "autenticacao"]/
+[submodule "autenticacao"]
 	path = autenticacao
 	url = https://github.com/pedrofreitaslima/ephratria-autenticacso.git
