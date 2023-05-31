@@ -7,3 +7,6 @@
 [submodule "ephratria-financeiro"]
 	path = ephratria-financeiro
 	url = git@github.com:pedrofreitaslima/ephratria-financeiro.git
+[submodule "ephratria-frontend"]
+	path = ephratria-frontend
+	url = git@github.com:pedrofreitaslima/ephratria-frontend.git
